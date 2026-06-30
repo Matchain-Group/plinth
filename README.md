@@ -5,11 +5,9 @@ social media / Upwork portfolio piece.
 
 ## Before you deploy
 
-1. Open `lib/listings.ts` and replace `WHATSAPP_NUMBER` with your real WhatsApp
+ Open `lib/listings.ts` and replace `WHATSAPP_NUMBER` with your real WhatsApp
    number in international format, no `+` or spaces (e.g. `2348012345678`).
-2. (Optional) Swap the Unsplash placeholder photos in `lib/listings.ts` for
-   your own property photos, or leave them as-is for the demo.
-3. (Optional) Edit listing copy, prices, and neighborhoods to taste.
+
 
 ## Run locally
 
